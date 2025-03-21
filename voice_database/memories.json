@@ -1,0 +1,78 @@
+{
+  "7f2a3f35-ab2d-4063-b4ae-b23e26cc6a36": [
+    {
+      "text": "MEMORY SUMMARY: Conversation 1:\n- Customer orders one pizza with extra cheese and no ketchup.\n- Confirmed the order.\n- Order is on its way.\n\nConversation 2:\n- Customer repeats the same order.\n- Confirmed the order.",
+      "sentiment": "neutral",
+      "emotion": "neutral"
+    },
+    {
+      "text": "Hi there, I came here a bit before and I would like to repeat that order again, can you order it again?",
+      "sentiment": "neutral",
+      "emotion": "neutral",
+      "timestamp": "b0be8f16-a810-4cc9-aff6-aca47991aa1f"
+    },
+    {
+      "text": "Sure, could you please confirm your order: one pizza with extra cheese and no ketchup?",
+      "sentiment": "neutral",
+      "emotion": "neutral",
+      "timestamp": "25f0f7eb-3195-4b0b-b693-61978b48c62e"
+    },
+    {
+      "text": "Yes, that is my order.",
+      "sentiment": "neutral",
+      "emotion": "neutral",
+      "timestamp": "e50daa6a-dc31-4b27-b738-c618ff4fb5fe"
+    },
+    {
+      "text": "Thank you! Your order of one pizza with extra cheese and no ketchup is on its way. Enjoy your meal!",
+      "sentiment": "neutral",
+      "emotion": "happy",
+      "timestamp": "5eb12b78-47f7-4b88-8c38-083af417291f"
+    }
+  ],
+  "2ac6cdb1-3d50-4486-a4c8-93111ec32a8f": [
+    {
+      "text": "MEMORY SUMMARY: Customers place orders for tuna sandwiches with specific preferences, such as extra spices and no cheese. One customer requested their order like a previous visit. The server, Himi, confirms the orders accurately and delivers them promptly.",
+      "sentiment": "neutral",
+      "emotion": "neutral"
+    },
+    {
+      "text": "Yeah, that is exactly what I want and also can you add a bottle of water, please?",
+      "sentiment": "neutral",
+      "emotion": "happy",
+      "timestamp": "010f3c09-fd55-40dd-91eb-b212e962bb89"
+    },
+    {
+      "text": "You would like to have a tuna sandwich with extra spices and no cheese, along with a bottle of water. Is that correct?\n\nThank you for your order. Your tuna sandwich with extra spices and no cheese, along with a bottle of water, is on its way!",
+      "sentiment": "neutral",
+      "emotion": "happy",
+      "timestamp": "f2158073-5c3d-42d3-9d81-fbe6e8ac4a7d"
+    },
+    {
+      "text": "No, thank you. See you next time.",
+      "sentiment": "neutral",
+      "emotion": "calm",
+      "timestamp": "db37ad81-bb62-4288-a7d1-c418dbb09de9"
+    },
+    {
+      "text": "You are welcome! See you next time and have a great day!",
+      "sentiment": "positive",
+      "emotion": "happy",
+      "timestamp": "b75c53c8-70e9-40cb-8f78-b1f77f6b6d8c"
+    }
+  ],
+  "a5e23f90-0ebe-4ad5-a6d8-dc320600f34c": [
+    {
+      "text": "Yeah, yeah, exactly that's correct.",
+      "sentiment": "neutral",
+      "emotion": "neutral",
+      "timestamp": "53d4b3ca-8427-4c8e-a4f6-403ba3555663"
+    },
+    {
+      "text": "Thank you! Your order is confirmed and will be on its way shortly: one tuna sandwich with extra spices and no cheese, and one bottle of water.\n\nIs there anything else I can assist you with?",
+      "sentiment": "neutral",
+      "emotion": "happy",
+      "timestamp": "eddce187-7d74-48a2-8f3c-30dfe0d273e7"
+    }
+  ]
+}

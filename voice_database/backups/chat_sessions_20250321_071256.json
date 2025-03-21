@@ -1,0 +1,24 @@
+{
+  "ed86fd12-0eb1-4a06-a0de-dae437145f79": {
+    "sessions": [],
+    "speaker_id": "7f2a3f35-ab2d-4063-b4ae-b23e26cc6a36",
+    "language": "en-US"
+  },
+  "dafbba17-8112-41fc-92bf-68205c306c25": {
+    "sessions": [],
+    "speaker_id": "2ac6cdb1-3d50-4486-a4c8-93111ec32a8f",
+    "language": "en-US"
+  },
+  "6857b1cd-e1f5-40cf-b09d-9d9d10fbcecd": {
+    "sessions": [],
+    "speaker_id": "7f2a3f35-ab2d-4063-b4ae-b23e26cc6a36",
+    "language": "en-US"
+  },
+  "99e6000b-a430-4471-8405-4a0b52ca9d03": {
+    "sessions": [
+      "e9ef9459-fa50-40cc-93bf-39ecb193c636"
+    ],
+    "speaker_id": "a5e23f90-0ebe-4ad5-a6d8-dc320600f34c",
+    "language": "en-US"
+  }
+}
